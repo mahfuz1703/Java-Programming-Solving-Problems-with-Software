@@ -1,0 +1,2 @@
+Hello, Java Developer!!
+This is test file for reader.
